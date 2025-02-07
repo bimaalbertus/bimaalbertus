@@ -13,7 +13,7 @@ I'm passionate about technology, software development, AI, physics and science. 
 - **TailwindCSS** 🎨  
 - **Python**, **Django**, & **PyTorch** 🐍🕸️🧠  
 
-I'm constantly working to grow and learn more to become a better Fullstack Developer! 💡💪
+I'm constantly working to grow and learn more to become a CEO of my own tech company! 💡💪
 
 My goal is to keep learning, innovating, and improving my skills in the tech world. Who knows, maybe one day I'll become the CEO of my own tech company! 🚀
 
