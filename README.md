@@ -1,5 +1,21 @@
 # 💫 About Me:
-Hello! My name is Albertus Bima, and I'm a student in Software Engineering at Vocational High School (SMK). I started learning programming back during the corona era, when I was in Junior High School.<br><br>I'm passionate about technology, software development, AI, and science. I have experience working with various technologies, including:<br><br>MERN Stack (MongoDB, Express, React, Node.js) 🛠️<br>Next.js ⚡<br>Laravel 🚀<br>FilamentPHP 🔥<br>MySQL & MongoDB 💾<br>HTML, CSS, and JavaScript 🌐<br>I'm constantly working to grow and learn more to become a better Fullstack Developer! 💡💪<br><br>My goal is to keep learning, innovating, and improving my skills in the tech world. Who knows, maybe one day I'll become a skilled developer with amazing projects!
+Hello! My name is Albertus Bima, and I'm a student in Software Engineering at Vocational High School (SMK). I started learning programming back during the corona era, when I was in Junior High School.  
+ 
+I'm passionate about technology, software development, AI, physics and science. I have experience working with various technologies, including:
+
+- **MERN Stack** (MongoDB, Express, React, Node.js) 🛠️  
+- **Next.js** & **Vite** ⚡  
+- **Laravel** 🚀  
+- **FilamentPHP** 🔥  
+- **MySQL** & **MongoDB** 💾  
+- **HTML**, **CSS**, **JavaScript**, & **TypeScript** 🌐  
+- **Alpine.js** ⚙️  
+- **TailwindCSS** 🎨  
+- **Python**, **Django**, & **PyTorch** 🐍🕸️🧠  
+
+I'm constantly working to grow and learn more to become a better Fullstack Developer! 💡💪
+
+My goal is to keep learning, innovating, and improving my skills in the tech world. Who knows, maybe one day I'll become the CEO of my own tech company! 🚀
 
 
 ## 🌐 Socials:
